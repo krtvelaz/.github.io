@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Cristian Velasquez.
 
-I'm a Full Stack Software Developer with 10 years of experience of development and data analytics projects
+I'm a Full Stack Software Developer with 6 years of experience of development and data analytics projects
 
 ### Some of my works include:
 
