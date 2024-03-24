@@ -24,8 +24,7 @@ I'm a Full Stack Software Developer with 6 years of experience of development an
 - Data Automation Development
 
 ### Languages and Tools:
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krtvelaz&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true&langs_count=8)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatatoBit&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true)</a>
+<!--<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krtvelaz&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true&langs_count=8)</a>-->
 <p align="left"> 
 <!-- Base de datos -->
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a> 
